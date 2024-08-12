@@ -23,6 +23,10 @@ public class Car
         this.series = series;
     }
 
+    public Car() {
+
+    }
+
     public Long getId() {
         return id;
     }
